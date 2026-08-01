@@ -1,16 +1,64 @@
-## Hi there 👋
+# Olá! 👋 Seja bem-vindo ao meu GitHub
 
-<!--
-**pedrobarauna/pedrobarauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou **João Pedro Baraúna da Silva Miranda**, Analista de TI apaixonado por tecnologia, infraestrutura, automação e Inteligência Artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Pós-graduado em Segurança da Informação e Proteção de Dados
+
+💻 Analista de TI
+
+🎨 UX/UI Designer certificado Google
+
+📍 Boa Vista - RR - Brasil
+
+---
+
+# 🚀 Áreas de atuação
+
+- Infraestrutura de TI
+- Service Desk
+- Redes
+- GLPI
+- Zabbix
+- PowerShell
+- Java
+- Git
+- Docker
+- Inteligência Artificial
+
+---
+
+# 🏆 Certificações
+
+- Google UX Design Professional Certificate
+- Google Project Management Professional Certificate
+- Google IT Support Professional Certificate
+
+---
+
+# 📚 Atualmente estudando
+
+- Java
+- Spring Boot
+- Inteligência Artificial
+- Desenvolvimento Full Stack
+- Cloud Computing
+
+---
+
+# 📂 Projetos
+
+- 📦 Inventário de TI
+- 🤖 Agentes de IA
+- 🌎 Meu Buraco
+- 📊 Dashboard de TI
+- ⚙️ Scripts PowerShell
+- 🖥️ GLPI
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/jpedrobarauna
+- Email: jpedrobarauna@gmail.com
