@@ -37,11 +37,23 @@ Sou **João Pedro Baraúna da Silva Miranda**, Analista de TI apaixonado por tec
 
 ---
 
-# 🏆 Certificações
+## 🏆 Certificações
 
-- Google UX Design Professional Certificate
-- Google Project Management Professional Certificate
-- Google IT Support Professional Certificate
+<p align="center">
+
+<a href="https://www.credly.com/badges/59c54183-fc03-4223-b24b-cf9b58abab8c/public_url">
+<img src="IMAGEM_DO_SELO_UX" width="180"/>
+</a>
+
+<a href="https://www.credly.com/badges/d66b453d-41b6-45d9-b82d-f85d48ed8d1f/public_url">
+<img src="IMAGEM_DO_SELO_PM" width="180"/>
+</a>
+
+<a href="https://www.credly.com/badges/7bab7474-add3-49f4-94f6-c89f2f395983/public_url">
+<img src="IMAGEM_DO_SELO_IT" width="180"/>
+</a>
+
+</p>
 
 ---
 
