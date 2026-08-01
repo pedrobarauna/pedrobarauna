@@ -14,18 +14,26 @@ Sou **João Pedro Baraúna da Silva Miranda**, Analista de TI apaixonado por tec
 
 ---
 
-# 🚀 Áreas de atuação
+## 🚀 Tecnologias e Ferramentas
 
-- Infraestrutura de TI
-- Service Desk
-- Redes
-- GLPI
-- Zabbix
-- PowerShell
-- Java
-- Git
-- Docker
-- Inteligência Artificial
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=java,git,docker,linux,mysql,vscode,idea,html,css,javascript" />
+
+</div>
+
+---
+
+## 💼 Experiência em
+
+- 🖥️ Infraestrutura de TI
+- 🌐 Redes de Computadores
+- 🎫 GLPI
+- 📊 Zabbix
+- ⚡ PowerShell
+- 🛠️ Suporte Técnico
+- 🎨 UX/UI Design
+- 🤖 Inteligência Artificial
 
 ---
 
