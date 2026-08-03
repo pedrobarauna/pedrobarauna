@@ -59,22 +59,24 @@ Sou **João Pedro Baraúna da Silva Miranda**, Analista de TI apaixonado por tec
 
 # 📚 Atualmente estudando
 
-- Java
-- Spring Boot
-- Inteligência Artificial
-- Desenvolvimento Full Stack
-- Cloud Computing
+- **Desenvolvimento Full Stack & Java:** Aprofundamento no ecossistema Spring Boot, fortalecido pela participação no Santander Bootcamp 2026.
+- **Cibersegurança & Proteção de Dados:** Formação técnica avançada através da certificação na BluePex Academy.
+- **Arquitetura Mobile & BaaS:** Integração e desenvolvimento de interfaces utilizando FlutterFlow e Firebase.
+- **Análise de Dados ERP:** Manipulação de dados de sistemas integrados para a geração de relatórios departamentais de precisão.
+- **Inteligência Artificial & Cloud Computing:** Aplicação de conceitos modernos para automação e escalabilidade.
 
 ---
 
 # 📂 Projetos
 
-- 📦 Inventário de TI
-- 🤖 Agentes de IA
-- 🌎 Meu Buraco
-- 📊 Dashboard de TI
-- ⚙️ Scripts PowerShell
-- 🖥️ GLPI
+- 💸 **Sobra (Finanças Pessoais):** Criação das especificações de MVP e diretrizes de interface (UX/UI) para um aplicativo utilitário financeiro minimalista.
+- 🌍 **Rup Pay (Fintech):** Estruturação do framework de design UX e fluxos de usuário para um aplicativo de pagamentos transfronteiriços.
+- 📦 **Inventário e Padronização de TI:** Desenvolvimento de proposta para rastreamento de ativos físicos e regras de nomenclatura de rede corporativa.
+- 📊 **Dashboards de TI e Negócios:** Construção de painéis visuais no Looker Studio, integrando dados do Google Sheets e sistemas ERP.
+- 🖥️ **Gestão com GLPI & Infraestrutura:** Gerenciamento de chamados de TI, manutenção de hardware e administração de redes (Active Directory e pfSense).
+- ⚙️ **Scripts PowerShell:** Automação de rotinas administrativas e instalação de sistemas operacionais.
+- 🤖 **Agentes de IA:** Projetos práticos e experimentações de automação inteligente.
+- 🌎 **Meu Buraco:** Projeto em andamento.
 
 ---
 
