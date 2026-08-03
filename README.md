@@ -18,7 +18,7 @@ Sou **João Pedro Baraúna da Silva Miranda**, Analista de TI apaixonado por tec
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=java,git,docker,linux,mysql,vscode,idea,html,css,javascript,figma" />
+<img src="https://skillicons.dev/icons?i=java,git,docker,linux,mysql,vscode,html,css,javascript,figma" />
 
 </div>
 
