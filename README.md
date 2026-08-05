@@ -4,12 +4,6 @@
 
 Sou **João Pedro Baraúna da Silva Miranda**, Analista de TI apaixonado por tecnologia, infraestrutura, automação e Inteligência Artificial.
 
-🎓 Pós-graduado em Segurança da Informação e Proteção de Dados
-
-💻 Analista de TI
-
-🎨 UX/UI Designer certificado Google
-
 📍 Boa Vista - RR - Brasil
 
 ---
@@ -28,10 +22,8 @@ Sou **João Pedro Baraúna da Silva Miranda**, Analista de TI apaixonado por tec
 
 - 🖥️ Infraestrutura de TI
 - 🌐 Redes de Computadores
-- 🎫 GLPI
-- 📊 Zabbix
-- ⚡ PowerShell
-- 🛠️ Suporte Técnico
+- 🎫 GLPI E ServiceDesk
+- 🛠️ Suporte Técnico (N1/N2/N3)
 - 🎨 UX/UI Design
 - 🤖 Inteligência Artificial
 
@@ -59,7 +51,7 @@ Sou **João Pedro Baraúna da Silva Miranda**, Analista de TI apaixonado por tec
 
 # 📚 Atualmente estudando
 
-- **Desenvolvimento Full Stack & Java:** Aprofundamento no ecossistema Spring Boot, fortalecido pela participação no Santander Bootcamp 2026.
+- **Desenvolvimento Full Stack:** Aprofundamento no ecossistema Spring Boot, fortalecido pela participação no Santander Bootcamp 2026.
 - **Cibersegurança & Proteção de Dados:** Formação técnica avançada através da certificação na BluePex Academy.
 - **Arquitetura Mobile & BaaS:** Integração e desenvolvimento de interfaces utilizando FlutterFlow e Firebase.
 - **Análise de Dados ERP:** Manipulação de dados de sistemas integrados para a geração de relatórios departamentais de precisão.
