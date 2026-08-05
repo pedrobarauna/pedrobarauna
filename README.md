@@ -8,16 +8,6 @@ Sou **João Pedro Baraúna da Silva Miranda**, Analista de TI apaixonado por tec
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=java,git,docker,linux,mysql,vscode,html,css,javascript,figma" />
-
-</div>
-
----
-
 ## 💼 Experiência em
 
 - 🖥️ Infraestrutura de TI
@@ -49,6 +39,15 @@ Sou **João Pedro Baraúna da Silva Miranda**, Analista de TI apaixonado por tec
 
 ---
 
+## 🚀 Tecnologias e Ferramentas
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=java,git,docker,linux,mysql,vscode,html,css,javascript,figma" />
+
+</div>
+
+---
 # 📚 Atualmente estudando
 
 - **Desenvolvimento Full Stack:** Aprofundamento no ecossistema Spring Boot, fortalecido pela participação no Santander Bootcamp 2026.
